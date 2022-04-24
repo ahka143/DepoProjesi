@@ -280,6 +280,7 @@ public class UrunMethod extends UrunListesi {
 
     public static void cikis() {
         System.out.println("Depo programimizi kulladiginiz icin tesekkurler. Iyi gunler");
+        System.exit(0);
 
     }
 
